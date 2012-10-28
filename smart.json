@@ -1,8 +1,11 @@
 {
   "name": "knockout",
-  "description": "Knockout.js, a dependency of the Knockout.Meteor package.",
+  "description": "Meteor.Knockout, MMVM for Meteor",
   "homepage": "https://github.com/bevanhunt/meteor-knockout",
   "author": "Bevan Hunt <me@bevanhunt.com> (http://www.bevanhunt.com)",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "git": "https://github.com/bevanhunt/meteor-knockout.git"
+  "packages": {
+    "knockout-deps" : {}
+  }
 }
