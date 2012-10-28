@@ -3,9 +3,6 @@
   "description": "Meteor.Knockout, MMVM for Meteor",
   "homepage": "https://github.com/bevanhunt/meteor-knockout",
   "author": "Bevan Hunt <me@bevanhunt.com> (http://www.bevanhunt.com)",
-  "version": "0.0.5",
-  "git": "https://github.com/bevanhunt/meteor-knockout.git",
-  "packages": {
-    "knockout-deps" : {}
-  }
+  "version": "0.0.6",
+  "git": "https://github.com/bevanhunt/meteor-knockout.git"
 }
