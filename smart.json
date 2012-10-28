@@ -1,6 +1,6 @@
 {
   "name": "knockout",
-  "description": "MVVM for Meteor",
+  "description": "Meteor.Knockout - MVVM for Meteor",
   "homepage": "https://github.com/bevanhunt/meteor-knockout",
   "author": "Bevan Hunt <me@bevanhunt.com> (http://www.bevanhunt.com)",
   "version": "0.1.0",
