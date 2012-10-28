@@ -1,3 +1,0 @@
-[submodule "lib/knockout.meteor"]
-	path = lib/knockout.meteor
-	url = https://github.com/steveluscher/knockout.meteor
