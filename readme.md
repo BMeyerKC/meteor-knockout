@@ -12,5 +12,5 @@ Please read the project readme at [Knockout.Meteor](https://github.com/stevelusc
 ## Demo
 Coming soon
 
-# Notes:
+## Notes
 This package includes all the required files: Knockout.Meteor, Knockout, and Knockout.Mapping 
