@@ -1,0 +1,8 @@
+{
+  "name": "knockout",
+  "description": "Knockout.Meteor, a Javascript library that provides MVVM for Meteor.",
+  "homepage": "https://github.com/bevanhunt/meteor-knockout",
+  "author": "Bevan Hunt <me@bevanhunt.com> (http://www.bevanhunt.com)",
+  "version": "0.0.1",
+  "git": "https://github.com/bevanhunt/meteor-knockout.git"
+}
