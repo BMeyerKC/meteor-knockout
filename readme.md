@@ -10,4 +10,4 @@
 Please read the project readme at [Knockout.Meteor](https://github.com/steveluscher/knockout.meteor)
 
 ## Demo
-Coming soon
+The demos in [Knockout.Meteor](https://github.com/steveluscher/knockout.meteor) work - just remove the lib dir and mrt add knockout
