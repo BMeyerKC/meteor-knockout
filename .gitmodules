@@ -1,0 +1,6 @@
+[submodule "lib/knockout-validation"]
+	path = lib/knockout-validation
+	url = https://github.com/ericmbarnard/Knockout-Validation
+[submodule "lib/knockout.meteor"]
+	path = lib/knockout.meteor
+	url = https://github.com/steveluscher/knockout.meteor
