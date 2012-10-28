@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "Knockout.js, a Javascript library that provides MVVM - a dependency of the Knockout.Meteor package."
+  summary: "Knockout.js, a dependency of the Knockout.Meteor package."
 });
 
 Package.on_use(function (api, where) {

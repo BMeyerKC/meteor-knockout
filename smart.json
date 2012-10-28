@@ -1,8 +1,8 @@
 {
   "name": "knockout",
-  "description": "Knockout.js, a Javascript library that provides MVVM - a dependency of the Knockout.Meteor package.",
+  "description": "Knockout.js, a dependency of the Knockout.Meteor package.",
   "homepage": "https://github.com/bevanhunt/meteor-knockout",
   "author": "Bevan Hunt <me@bevanhunt.com> (http://www.bevanhunt.com)",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "git": "https://github.com/bevanhunt/meteor-knockout.git"
 }

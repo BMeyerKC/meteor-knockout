@@ -1,6 +1,6 @@
 # Knockout.js for Meteor
 
-[Knockout.js](http://knockout.js), a Javascript library that provides MVVM - a dependency of Knockout.Meteor.
+[Knockout.js](http://knockout.js), a dependency of Knockout.Meteor.
 
 ## How to install 
 1. npm install meteorite (if not already installed)
