@@ -1,8 +1,8 @@
 {
   "name": "knockout",
-  "description": "Meteor.Knockout, MVVM for Meteor",
+  "description": "MVVM for Meteor",
   "homepage": "https://github.com/bevanhunt/meteor-knockout",
   "author": "Bevan Hunt <me@bevanhunt.com> (http://www.bevanhunt.com)",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "git": "https://github.com/bevanhunt/meteor-knockout.git"
 }

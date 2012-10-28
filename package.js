@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "Knockout.Meteor, a Javascript library that provides MVVM for Meteor."
+  summary: "Knockout.Meteor, MVVM for Meteor."
 });
 
 Package.on_use(function (api, where) {
