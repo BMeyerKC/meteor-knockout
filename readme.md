@@ -9,5 +9,8 @@
 ## How to use
 Please read the project readme at [Knockout.Meteor](https://github.com/steveluscher/knockout.meteor)
 
+## Demo
+Coming soon
+
 # Notes:
 This package includes all the required files: Knockout.Meteor, Knockout, and Knockout.Mapping 
