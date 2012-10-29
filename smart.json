@@ -3,6 +3,6 @@
   "description": "MVVM with validations for Meteor",
   "homepage": "https://github.com/bevanhunt/meteor-knockout",
   "author": "Bevan Hunt <me@bevanhunt.com> (http://www.bevanhunt.com)",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "git": "https://github.com/bevanhunt/meteor-knockout.git"
 }
