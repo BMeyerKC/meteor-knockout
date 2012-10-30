@@ -1,6 +1,6 @@
 # Knockout for Meteor
 
-Data bindings with form validation for Meteor
+Data bindings and form validation for Meteor
 
 ## How to install 
 1. npm install meteorite (if not already installed)
@@ -21,7 +21,7 @@ Currently:
 ## Demos
 I am working on a full demo - to be released soon.
 
-The dynamic_finders demo in [Knockout.Meteor](https://github.com/steveluscher/knockout.meteor) - remove the client dir and run "mrt add knockout".
+The dynamic_finders example in [Knockout.Meteor](https://github.com/steveluscher/knockout.meteor) - remove the client dir and run "mrt add knockout".
 
 As MappedQuery does not work - the todos_list example in [Knockout.Meteor](https://github.com/steveluscher/knockout.meteor) is not functional.
 

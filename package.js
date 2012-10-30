@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "Data bindings with form validation for Meteor."
+  summary: "Data bindings and form validation for Meteor."
 });
 
 Package.on_use(function (api, where) {
