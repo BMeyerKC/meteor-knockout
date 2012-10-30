@@ -12,7 +12,7 @@ Currently:
 * MappedQuery for [Knockout.meteor](https://github.com/steveluscher/knockout.meteor) does not work - due to a library issue. 
 
 ## How to install 
-1. npm install meteorite (if not already installed)
+1. npm install -g meteorite (if not already installed)
 2. mrt add knockout
 
 ## Demos
