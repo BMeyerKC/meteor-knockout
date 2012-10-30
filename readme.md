@@ -1,13 +1,6 @@
 # Knockout for Meteor
 
-Data bindings and form validation for Meteor
-
-## How to install 
-1. npm install meteorite (if not already installed)
-2. mrt add knockout
-
-## Description
-This package provides the full power of Knockout to Meteor.
+This package provides the full power of Knockout to Meteor. http://knockoutjs.com/
 
 That being said - the focus is two killer features:
 
@@ -17,6 +10,10 @@ That being said - the focus is two killer features:
 Currently:
 * Meteor has no form validation and a synced form requires tons of boiler-plate.
 * MappedQuery for [Knockout.meteor](https://github.com/steveluscher/knockout.meteor) does not work - due to a library issue. 
+
+## How to install 
+1. npm install meteorite (if not already installed)
+2. mrt add knockout
 
 ## Demos
 I am working on a full demo - to be released soon.
