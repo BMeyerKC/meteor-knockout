@@ -18,7 +18,7 @@ Currently, Meteor has no form validation and to write synced forms requires tons
 Currently, MappedQuery for [Knockout.meteor] does not work - it is not due to this package - but a library issue. 
 
 ## Demos
-I am working on a full demo - to be released soon
+I am working on a full demo - to be released soon.
 
 The dynamic_finders demo in [Knockout.Meteor](https://github.com/steveluscher/knockout.meteor) works - remove the client dir and run "mrt add knockout".
 
