@@ -10,19 +10,20 @@ Data bindings with form validation for Meteor
 This package provides the full power of Knockout to Meteor.
 
 That being said - the focus is two killer features:
+
 1. Form Auto-Syncing
 2. Form Validation
 
-Currently, Meteor has no form validation and to write synced forms requires tons of boiler-plate.
-
-Currently, MappedQuery for [Knockout.meteor] does not work - it is not due to this package - but a library issue. 
+Currently:
+* Meteor has no form validation and a synced form requires tons of boiler-plate.
+* MappedQuery for [Knockout.meteor](https://github.com/steveluscher/knockout.meteor) does not work - due to a library issue. 
 
 ## Demos
 I am working on a full demo - to be released soon.
 
-The dynamic_finders demo in [Knockout.Meteor](https://github.com/steveluscher/knockout.meteor) works - remove the client dir and run "mrt add knockout".
+The dynamic_finders demo in [Knockout.Meteor](https://github.com/steveluscher/knockout.meteor) - remove the client dir and run "mrt add knockout".
 
-As MappedQuery does not work - the todos_list in [Knockout.Meteor](https://github.com/steveluscher/knockout.meteor) example is not functional.
+As MappedQuery does not work - the todos_list example in [Knockout.Meteor](https://github.com/steveluscher/knockout.meteor) is not functional.
 
 jsFiddle of Form Validation (no Meteor code) - [Demo](http://jsfiddle.net/ericbarnard/KHFn8/)
 
