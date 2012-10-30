@@ -22,7 +22,7 @@ I am working on a full demo - to be released soon.
 
 The dynamic_finders demo in [Knockout.Meteor](https://github.com/steveluscher/knockout.meteor) works - remove the client dir and run "mrt add knockout".
 
-As MappedQuery does not work - the todos_list example is not functional.
+As MappedQuery does not work - the todos_list in [Knockout.Meteor](https://github.com/steveluscher/knockout.meteor) example is not functional.
 
 jsFiddle of Form Validation (no Meteor code) - [Demo](http://jsfiddle.net/ericbarnard/KHFn8/)
 
