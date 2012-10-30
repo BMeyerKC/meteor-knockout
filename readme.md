@@ -13,7 +13,7 @@ That being said - the focus is two killer features:
 1. Form Auto-Syncing
 2. Form Validation
 
-Currently Meteor has no form validation and to write synced forms requires tons of boiler-plate.
+Currently, Meteor has no form validation and to write synced forms requires tons of boiler-plate.
 
 Currently, MappedQuery for [Knockout.meteor] does not work - it is not due to this package - but a library issue. 
 
