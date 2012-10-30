@@ -1,6 +1,6 @@
 # Knockout for Meteor
 
-This package provides the full power of Knockout to Meteor. http://knockoutjs.com/
+This package provides the full power of Knockout to Meteor. http://knockoutjs.com
 
 That being said - the focus is two killer features:
 
