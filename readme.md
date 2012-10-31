@@ -1,28 +1,23 @@
 # Knockout for Meteor
 
-This package provides the full power of Knockout to Meteor. http://knockoutjs.com
+This package provides Knockout for Meteor. http://knockoutjs.com
 
-That being said - the focus is two killer features:
-
-1. Form Auto-Syncing
-2. Form Validation
-
-Currently:
-* Meteor has no form validation and a synced form requires tons of boiler-plate.
-* MappedQuery for [Knockout.meteor](https://github.com/steveluscher/knockout.meteor) does not work - due to a library issue. 
+The best feature for Meteor is form validation.
 
 ## How to install 
 1. npm install -g meteorite (if not already installed)
 2. mrt add knockout
 
 ## Demos
-I am working on a full demo - to be released soon.
+Meteor-Barista | [Github](https://github.com/bevanhunt/meteor-barista) | [Demo](http://barista.meteor.com) | uses Knockout for its form validation.
 
-The dynamic_finders example in [Knockout.Meteor](https://github.com/steveluscher/knockout.meteor) - remove the client dir and run "mrt add knockout".
+The dynamic_finders example in [Knockout.Meteor](https://github.com/steveluscher/knockout.meteor) works - remove the client dir and add the pacakge.
 
-As MappedQuery does not work - the todos_list example in [Knockout.Meteor](https://github.com/steveluscher/knockout.meteor) is not functional.
+[jsFiddle](http://jsfiddle.net/ericbarnard/KHFn8/) for form validation (no Meteor code)
 
-jsFiddle of Form Validation (no Meteor code) - [Demo](http://jsfiddle.net/ericbarnard/KHFn8/)
+## Issues
+* MappedQuery for [Knockout.meteor](https://github.com/steveluscher/knockout.meteor) does not work - due to a library issue. 
+* As MappedQuery does not work - the todos_list example in [Knockout.Meteor](https://github.com/steveluscher/knockout.meteor) is not functional.
 
 ## Contains
 * [Knockout](https://github.com/SteveSanderson/knockout)

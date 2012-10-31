@@ -3,8 +3,6 @@ Package.describe({
 });
 
 Package.on_use(function (api, where) {
-  api.use('underscore', ['client', 'server']);
-
   api.add_files('lib/knockout/knockout.js', 'client');
   api.add_files('lib/knockout/knockout.mapping.js', 'client');
   api.add_files('lib/knockout.validation/knockout.validation.js', 'client');
