@@ -16,8 +16,7 @@ The dynamic_finders example in [Knockout.Meteor](https://github.com/steveluscher
 [jsFiddle](http://jsfiddle.net/ericbarnard/KHFn8/) for form validation (no Meteor code)
 
 ## Issues
-* Two-way manual binding for [Knockout.meteor](https://github.com/steveluscher/knockout.meteor) does not work - due to a library issue. 
-* Due to this issue - the todos_list example in [Knockout.Meteor](https://github.com/steveluscher/knockout.meteor) is not functional.
+* The todos_list example in [Knockout.Meteor](https://github.com/steveluscher/knockout.meteor) is not functional - does not effect form validation.
 
 ## Contains
 * [Knockout](https://github.com/SteveSanderson/knockout)
