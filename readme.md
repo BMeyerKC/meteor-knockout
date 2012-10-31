@@ -2,7 +2,7 @@
 
 This package provides Knockout for Meteor. http://knockoutjs.com
 
-The best feature in this package is form validation.
+The best feature of this package is form validation.
 
 ## How to install 
 1. npm install -g meteorite (if not already installed)
