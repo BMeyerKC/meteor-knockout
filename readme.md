@@ -24,3 +24,6 @@ The dynamic_finders example in [Knockout.Meteor](https://github.com/steveluscher
 * [Knockout.meteor](https://github.com/steveluscher/knockout.meteor)
 * [Knockout.validation](https://github.com/ericmbarnard/Knockout-Validation) 
 * The default US English localization error messages are included for the validation library
+
+## License
+MIT/X11
